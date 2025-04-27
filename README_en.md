@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
 # Awesome GPT-4o Images ✨
 
-[![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
-<a href="https://github.com/jamez-bondos/awesome-gpt4o-images/stargazers">
+[![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README_zh.md)
+<a href="https://github.com/shatan0x/ghibli-ia-gpt4o-images/stargazers">
   <img src="https://img.shields.io/github/stars/jamez-bondos/awesome-gpt4o-images?style=social" alt="GitHub stars">
 </a>
 
