@@ -634,7 +634,7 @@ The purchase button is the same color as the pill, and the price below is $9. Pl
 
 **Prompt:**
 ```
-給【西北工业大学】画一个拟人化的3D Q版美少女形象，体现学校【航空航天航海三航】特色
+Draw an anthropomorphic 3D Q-version cute girl image for [Northwestern Polytechnical University], reflecting the university's characteristics of [Aeronautics, Astronautics, and Marine Technology - "Three Ais"].
 ```
 *Note: The university name 【西北工业大学】 (Northwestern Polytechnical University) and characteristic description 【航空航天航海三航】 (Aeronautics, Astronautics, and Marine Technology - "Three Ais") within the square brackets can be replaced to generate anthropomorphic mascots for different universities.*
 
@@ -676,7 +676,7 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 
 **Prompt:**
 ```
-把图片人物生成变成 Q 版可爱俄罗斯套娃🪆，大到小一共五个，放在精致的木桌上，横幅4:3比例
+Turn the people in the image into Q-version cute Matryoshka dolls 🪆, five in total from large to small, placed on a delicate wooden table, 4:3 aspect ratio.
 ```
 
 *Note: The aspect ratio description in the prompt has been slightly modified. See the source link for the original prompt.*
@@ -695,7 +695,7 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 
 **Prompt:**
 ```
-将附图中的人物转换成水晶球场景。 整体环境：水晶球放在窗户旁桌面上，背景模糊，暖色调。阳光透过球体，洒下点点金光，照亮了周围的黑暗。 水晶球内部：人物是可爱Q版3D造型，相互之间满眼的爱意。
+Transform the figures in the attached image into a snow globe scene. Overall environment: The snow globe is placed on a table by the window, with a blurred background and warm tones. Sunlight shines through the sphere, casting golden light and illuminating the surrounding darkness. Inside the snow globe: The figures are in a cute Q-version 3D style, with love in their eyes.
 ```
 
 **Reference Image Required:** A photo of a couple or another person.
@@ -712,7 +712,7 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 
 **Prompt:**
 ```
-微型立体场景呈现，运用移轴摄影的技法，呈现出Q版【孙悟空三打白骨精】场景
+A miniature diorama scene, using tilt-shift photography techniques, presenting a Q-version of [Monkey King Thrice Defeats the White Bone Demon] scene.
 ```
 *Note: The Chinese text within the brackets 【孙悟空三打白骨精】 (Sun Wukong San Da Baigu Jing - Monkey King Thrice Defeats the White Bone Demon) in the prompt can be replaced with other Chinese scenes, such as "孙悟空大闹天宫" (Sun Wukong Da Nao Tiangong - Monkey King Wreaks Havoc in Heaven), "哪吒闹海" (Nezha Nao Hai - Nezha Fights the Sea Dragon), "武松打虎" (Wu Song Da Hu - Wu Song Fights the Tiger), "黛玉葬花" (Daiyu Zang Hua - Daiyu Buries Flowers), or "关云长过五关斩六将" (Guan Yunchang Guo Wu Guan Zhan Liu Jiang - Guan Yu Passes Five Gates and Slays Six Generals), according to the original tweet.*
 
@@ -728,25 +728,25 @@ Note: Replace the 【】 placeholder in the prompt with specifics like "Designer
 
 **Prompt:**
 ```
-创建一张日系萌系双格漫画，上下排列，主题：少女总统的工作日常。
+Create a two-panel Japanese-style manga in a cute style, arranged vertically, with the theme: "A Day in the Life of a Girl President."
 
-角色形象: 将上传的附件转换为日系萌系卡通女生形象的风格，保留原图所有细节，如服饰（西装）、发型（明亮的金黄色）、五官等。 
+Character Appearance: Convert the uploaded image into a Japanese-style cute cartoon girl, retaining all the details of the original image, such as clothing (suit), hairstyle (bright golden yellow), and facial features.
 
-第一格: 
-- 表情: 委屈巴巴，沮丧的表情，单手托腮 
-- 文字框: “肿么办嘛！他不跟我通话！(；´д｀)” 
-- 场景: 暖色调办公室，背后美国国旗，桌上放着一堆汉堡，一个复古红色转盘电话，人物在画面左边，电话在右边。  
+First Panel:
+- Expression: Pitiful, dejected expression, holding cheek with one hand.
+- Text Box: "What should I do! He won't talk to me! (；´д｀)"
+- Scene: Warm-toned office, American flag in the background, a pile of hamburgers on the desk, a retro red rotary phone, character on the left side of the frame, phone on the right.
 
-第二格:  
-- 表情: 咬牙切齿，暴怒，脸涨红 
-- 动作: 猛拍桌子，汉堡震得跳起来 
-- 文字泡: “哼！关税加倍！不理我是他们的损失！( `д´ )” - 场景: 和第一格相同，但一片狼藉。  
+Second Panel:
+- Expression: Gritting teeth, furious, face flushed red.
+- Action: Slamming the table, causing the hamburgers to jump up.
+- Speech Bubble: "Hmph! Double the tariffs! It's their loss if they ignore me! ( `д´ )" - Scene: Same as the first panel, but in a state of disarray.
 
-其他说明:  
-- 文字采用简洁可爱的手写体，整体风格可爱而有趣。 
-- 构图饱满生动，请保留足够空间用于文字显示，适当留白。 
-- 图片比例 2:3。 
-- 画面整体色彩鲜艳，突出卡通风格。
+Other Instructions:
+- Use simple and cute handwritten font for the text, overall style should be cute and fun.
+- Composition should be full and lively, reserve enough space for text display, with appropriate white space.
+- Image ratio: 2:3.
+- Overall color of the image should be bright and vibrant, highlighting the cartoon style.
 
 ```
 **Reference Image Required:** A photo of a person is needed for reference.
@@ -778,13 +778,13 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 **Prompt:**
 ```
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。
+Create a hand-drawn infographic card with a 9:16 vertical aspect ratio. The card should have a clear theme, with a beige or off-white background featuring a paper texture, and the overall design should reflect a simple, approachable, hand-drawn aesthetic.
 
-卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。周边适当留白。
+At the top of the card, highlight the title with large, contrasting red and black brush calligraphy to attract visual attention. The text content should all be in Chinese calligraphy, with the overall layout divided into 2 to 4 clear sections. Each section should express the core points with concise and refined Chinese phrases. The font should maintain the smooth rhythm of calligraphy, making it both legible and artistic. Leave appropriate margins around the edges.
 
-卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。
-“做 IP 是长期复利
-坚持每日更新，肯定会有结果，因为 99% 都坚持不了的！”
+Incorporate simple and interesting hand-drawn illustrations or icons, such as figures or symbolic representations, to enhance visual appeal and evoke reader thought and resonance. Pay attention to visual balance in the overall layout, reserving sufficient white space to ensure the image is clean, clear, and easy to read and understand.
+“Building an IP is a long-term compound interest endeavor.
+Persistence in daily updates will definitely yield results, because 99% of people can't persist!"
 ```
 
 [⬆️ Back to Directory](#example-toc)
@@ -799,7 +799,7 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 **Prompt:**
 ```
-生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
+Generate an image, print it out, and then frantically add handwritten Chinese annotations, doodles, scribbles with red ink. If you want, you can also add some small clip art.
 ```
 **Reference Image Required:** A photo or screenshot.
 
@@ -815,45 +815,45 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 
 **Prompt:**
 ```
-画一个马桶：
+Draw a toilet:
 
-## 艺术风格简介：极简主义3D插画（Minimalist 3D Illustration）
+## Art Style Brief: Minimalist 3D Illustration
 
-### 🎨 视觉元素（Visual Elements）
+### 🎨 Visual Elements
 
-#### 🟢 造型语言（Shape Language）
-- 圆润的边缘、平滑柔和的外形，采用简化几何造型。
+#### 🟢 Shape Language
+- Rounded edges, smooth and soft appearance, using simplified geometric shapes.
 
-#### 🎨 色彩（Colors）
-- **主色调：** 柔和米色、浅灰色、暖橙色。
-- **强调色：** 暖橙色用于焦点元素。
-- **明暗处理：** 柔和渐变，平滑过渡，避免强烈的阴影和高光。
+#### 🎨 Colors
+- **Primary Colors:** Soft beige, light gray, warm orange.
+- **Accent Color:** Warm orange for focal elements.
+- **Shading:** Soft gradients, smooth transitions, avoiding strong shadows and highlights.
 
-#### 💡 光照（Lighting）
-- **类型：** 柔和、漫反射光照。
-- **光源方向：** 上方稍偏右。
-- **阴影风格：** 微妙且漫射，无锐利或高对比度的阴影。
+#### 💡 Lighting
+- **Type:** Soft, diffuse lighting.
+- **Light Source Direction:** Slightly above and to the right.
+- **Shadow Style:** Subtle and diffused, without sharp or high-contrast shadows.
 
-#### 🧱 材质（Materials）
-- **表面纹理：** 哑光、平滑的表面，带有微妙的明暗变化。
-- **反射性：** 低或无，避免明显的光泽。
+#### 🧱 Materials
+- **Surface Texture:** Matte, smooth surface with subtle variations in brightness.
+- **Reflectivity:** Low or none, avoiding obvious gloss.
 
-#### 🖼️ 构图（Composition）
-- **对象呈现：** 单一、居中的物体，周围留出大量负空间。
-- **视角：** 轻微倾斜视角，呈现适度的三维感，但无明显的景深效果。
-- **背景：** 纯色、低饱和度，与主体协调且不干扰视线。
+#### 🖼️ Composition
+- **Object Presentation:** Single, centered object with plenty of negative space around it.
+- **Perspective:** Slightly tilted perspective, presenting a moderate sense of three-dimensionality, but without a pronounced depth of field effect.
+- **Background:** Solid color, low saturation, coordinating with the subject and not interfering with the line of sight.
 
-#### ✒️ 字体排版（Typography）
-- **字体风格：** 极简、无衬线字体。
-- **文字位置：** 左下角，尺寸小巧且不突出。
-- **字体颜色：** 灰色，与背景形成低对比度。
+#### ✒️ Typography
+- **Font Style:** Minimalist, sans-serif font.
+- **Text Position:** Bottom left, small and unobtrusive.
+- **Font Color:** Gray, forming a low contrast with the background.
 
-#### 🖥️ 渲染风格（Rendering Style）
-- **技术手法：** 3D渲染，采用简化的低多边形风格。
-- **细节程度：** 中等细节，以形状和色彩为主，避免复杂纹理和细节。
+#### 🖥️ Rendering Style
+- **Technical Approach:** 3D rendering, using a simplified low-polygon style.
+- **Level of Detail:** Medium detail, focusing on shapes and colors, avoiding complex textures and details.
 
-### 🎯 风格目标（Purpose）
-> 创建干净、美观的视觉效果，强调简洁、亲和和现代感。
+### 🎯 Purpose
+> Create clean, beautiful visuals that emphasize simplicity, approachability, and modernity.
 
 ```
 
@@ -885,17 +885,17 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 
 **Prompt:**
 ```
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。
+Create a hand-drawn style infographic card with a 9:16 vertical aspect ratio. The card should have a distinct theme and a background with a paper texture in beige or off-white, with an overall design that reflects a simple, approachable, hand-drawn aesthetic.
 
-卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。
+The title should be highlighted at the top of the card with large, contrasting red and black Chinese calligraphy brushstroke characters to attract visual attention. The text content should all be in Chinese calligraphy, with the overall layout divided into 2 to 4 clear sections. Each section should express the core points with concise and refined Chinese phrases. The font should maintain the smooth rhythm of calligraphy, making it clear and readable while also being artistic.
 
-卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。
-整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。
+The card should be adorned with simple and interesting hand-drawn illustrations or icons, such as figures or symbolic representations, to enhance visual appeal and evoke reader thought and resonance.
+The overall layout should pay attention to visual balance, reserving enough white space to ensure the picture is simple and clear, easy to read and understand.
 
-<h1><span style="color:red">「认知」</span>决定上限
-<span style="color:red">「圈子」</span>决定机会</h1>
-- 你赚不到「认知」以外的钱，
-- 也遇不到「圈子」以外的机会。
+<h1><span style="color:red">"Cognition"</span> determines the upper limit
+<span style="color:red">"Circle"</span> determines the opportunity</h1>
+- You can't earn money beyond your "cognition,"
+- You won't encounter opportunities outside your "circle."
 ```
 
 [⬆️ Back to Directory](#example-toc)
@@ -910,7 +910,7 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 
 **Prompt:**
 ```
-将照片里的转换成Q版 3D人物，父母婚礼服饰，孩子是美丽的花童。 父母，西式婚礼服饰，父亲礼服，母亲婚纱。孩子手捧鲜花。 背景是五彩鲜花做的拱门。 除了人物是3D Q版，环境其他都是写实。 整体放在一个相框里。
+Transform the people in the photo into Q-version 3D characters. The parents are in wedding attire, and the child is a beautiful flower bearer. The parents are in Western-style wedding attire: the father in a suit and the mother in a wedding dress. The child is holding flowers. The background is an arch made of colorful flowers. Except for the characters, which are 3D Q-version, the rest of the environment is realistic. Place the whole scene in a photo frame.
 ```
 **Reference Image Required:** A family photo.
 
@@ -971,12 +971,12 @@ Naruto stickers
 
 **Prompt:**
 ```
-为图片人物生成不同职业风的OOTD，时尚穿搭和配饰，和人物色系一致的纯色背景，Q版 3d，c4d渲染，保持人脸特征，姿势都要保持一致，人物的比例腿很修长
+Generate OOTDs with different professional styles for the image character, including fashionable outfits and accessories. Use solid color backgrounds that match the character's color scheme. Render in Q-version 3D style with C4D. Maintain the character's facial features and consistent poses, with elongated legs.
 
-构图：9:16
-顶部文字：OOTD，左侧为人物ootd q版形象，右侧为穿搭的单件展示
+Composition: 9:16
+Top text: OOTD. The left side shows the character's OOTD in Q-version, and the right side displays individual pieces of the outfit.
 
-先来第一个职业：时尚设计师
+First profession: Fashion Designer
 ```
 **Reference Image Required:** [Image of 'Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg).
 
@@ -992,7 +992,7 @@ Naruto stickers
 
 **Prompt:**
 ```
-把这张照片设计成一个极简扁平插画风格的Q版贴纸，厚白边，保留人物特征，风格要可爱一些，人物要超出圆形区域边框，圆形区域要为纯色不要3d感，透明背景
+Design this photo into a minimalist flat illustration style Q-version sticker with a thick white border. Retain the character's features, make the style cute, and have the character extend beyond the circular area's border. The circular area should be a solid color without a 3D effect, and the background should be transparent.
 ```
 **Reference Image Required:** A clear profile photo.
 
@@ -1008,14 +1008,14 @@ Naruto stickers
 
 **Prompt:**
 ```
-创作一套全新的 chibi sticker，共六个独特姿势，以用户形象为主角：
-1. 双手比出剪刀手，俏皮地眨眼；
-2. 泪眼汪汪、嘴唇微微颤动，呈现可爱哭泣的表情；
-3. 张开双臂，做出热情的大大拥抱姿势；
-4. 侧卧入睡，靠着迷你枕头，带着甜甜的微笑；
-5. 自信满满地向前方伸手指，周围点缀闪亮特效；
-6. 手势飞吻，周围飘散出爱心表情。
-保留 chibi 美学风格：夸张有神的大眼睛、柔和的面部线条、活泼俏皮的短款黑色发型、配以大胆领口设计的白色服饰，背景使用充满活力的红色，并搭配星星或彩色纸屑元素进行装饰。周边适当留白。
+Create a brand new set of chibi stickers, featuring six unique poses with the user's image as the main character:
+1.  Making a V-sign with both hands, winking playfully;
+2.  Teary-eyed, with slightly trembling lips, showing a cute crying expression;
+3.  Opening arms wide, making an enthusiastic big hug pose;
+4.  Lying on the side to sleep, leaning on a mini pillow, with a sweet smile;
+5.  Confidently pointing a finger forward, surrounded by sparkling special effects;
+6.  Gesture kiss, with heart emoticons floating around.
+Retain the chibi aesthetic style: exaggerated and bright big eyes, soft facial lines, lively and cute short black hairstyle, matched with white clothing with a bold neckline design, use a vibrant red background, and decorate with stars or colorful confetti elements. Leave appropriate blank space around.
 Aspect ratio: 9:16
 ```
 **Reference Image Required:** A clear profile photo.
@@ -1032,7 +1032,7 @@ Aspect ratio: 9:16
 
 **Prompt:**
 ```
-《大师麦片》：根据我上传的照片的人物特征判断，为他生成一个符合他特质的燕麦片搭配（比如蔬菜、水果、酸奶、粗粮等等）和包装设计，然后生成他作为麦片包装盒封面人物 加 相应麦片搭配的广告封面，人物要保持特征、可爱Q版3d、c4d渲染风格，麦片所放置的地方的风格也要符合设定，比如放在厨房、超市 极简主义的设计台上等等，先做好设定，再生成图像
+"Master Oats": Based on the facial features of the person in the photo I upload, generate an oatmeal combination (such as vegetables, fruits, yogurt, whole grains, etc.) and packaging design that suits their characteristics. Then, generate an advertisement cover featuring them as the cover person on the oatmeal box, along with the corresponding oatmeal combination. The character should maintain their features, be in a cute Q-version 3D style, and rendered in C4D. The style of the place where the oatmeal is placed should also match the setting, such as a kitchen, supermarket, or minimalist design table. First, create the setting, and then generate the image.
 ```
 **Reference Image Required:** [Image of 'Girl with a Pearl Earring'](./references/Meisje_met_de_parel.jpg).
 
@@ -1100,7 +1100,7 @@ Generate a toilet with the following JSON profile:
 
 **Prompt:**
 ```
-把照片中的人物变成 Funko Pop 公仔包装盒的风格，以等距视角（isometric）呈现，并在包装盒上标注标题为“JAMES BOND”。包装盒内展示的是照片中人物形象，旁边搭配有人物的必备物品（手枪、手表、西装、其他）同时，在包装盒旁边还应呈现该公仔本体的实物效果，采用逼真的、具有真实感的渲染风格。
+Transform the person in the photo into the style of a Funko Pop figure packaging box, presented in an isometric view, and label the box with the title "JAMES BOND". The packaging box should display the image of the person from the photo, along with the person's essential items (handgun, watch, suit, etc.). At the same time, the actual effect of the Funko Pop figure itself should also be presented next to the packaging box, using a realistic and authentic rendering style.
 ```
 **Reference Image Required:** A clear half-body or full-body photo.
 
@@ -1116,11 +1116,11 @@ Generate a toilet with the following JSON profile:
 
 **Prompt:**
 ```
-将附图中的人物转换成可爱Q版3D造型
-场景：在豪华游轮最顶尖的船头，船头是尖的。
-男士带着女士站在泰坦尼克号船头，男士双手搂着女士的腰，女士双臂伸展穿着连衣裙，迎着风，脸上洋溢着自由与畅快。
-此时天色呈现出黄昏的暖色调，大海在船下延展 。
-除了人物用Q版3D造型以外，其他环境都是实物。
+Transform the people in the attached photo into cute Q-version 3D figures.
+Scene: On the very top of a luxury cruise ship, the bow is pointed.
+A man and a woman stand at the bow of the Titanic; the man has his arms around the woman's waist, and the woman stretches out her arms, wearing a dress, facing the wind, with a face full of freedom and joy.
+The sky is in warm sunset tones, and the sea stretches out below the ship.
+Except for the characters being in Q-version 3D style, the other environments are real objects.
 ```
 **Reference Image Required:** A couple's photo.
 
@@ -1136,24 +1136,24 @@ Generate a toilet with the following JSON profile:
 
 **Prompt:**
 ```
-画图：画一个小红书封面。
-要求：
-有足够的吸引力吸引用户点击；
-字体醒目，选择有个性的字体；
-文字大小按重要度分级，体现文案的逻辑结构；
-标题是普通文字的至少2倍；
-文字段落之间留白。
-只对要强调的文字用醒目色吸引用户注意；
-背景使用吸引眼球的图案（包括不限于纸张，记事本，微信聊天窗口，选择一种）
-使用合适的图标或图片增加视觉层次，但要减少干扰。
+Draw an image: A Xiaohongshu cover.
+Requirements:
+Be attractive enough to entice users to click;
+Use eye-catching and unique fonts;
+Size the text according to importance to reflect the logical structure of the copy;
+The title should be at least twice the size of the regular text;
+Leave whitespace between text paragraphs.
+Use striking colors to draw the user's attention only to the text that needs emphasis;
+Use an eye-catching pattern for the background (including but not limited to paper, notebook, WeChat chat window, choose one);
+Use appropriate icons or images to increase visual hierarchy, but minimize distractions.
 
-文案：重磅！ChatGPT又变强了！
-多任务处理更牛✨
-编程能力更强💪
-创造力爆表🎨
-快来试试！
+Copy: Breaking! ChatGPT is even stronger!
+Multitasking is even better ✨
+Programming ability is stronger 💪
+Creativity explodes 🎨
+Come and try it!
 
-图像9:16比例
+Image ratio: 9:16
 ```
 
 [⬆️ Back to Directory](#example-toc)
@@ -1168,9 +1168,9 @@ Generate a toilet with the following JSON profile:
 
 **Prompt:**
 ```
-(分为两步)
-先把图片人物变成手绘简笔画风格
-然后把简笔画按照吐舌头、微笑、皱眉、惊讶、思考、眨眼生成一系列表情包
+(Two steps)
+First, transform the people in the image into a hand-drawn stick figure style.
+Then, generate a series of emoticons based on the stick figures, including expressions such as tongue out, smiling, frowning, surprised, thinking, and winking.
 ```
 **Reference Image Required:** A photo of a person.
 
@@ -1217,7 +1217,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **Prompt:**
 ```
-以皮克斯 3D 风格重绘这张照片
+Redraw this photo in Pixar 3D style
 ```
 **Reference Image Required:** A photo of a person or other subject.
 
@@ -1233,7 +1233,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **Prompt:**
 ```
-为我生成一张数码宝贝风格的图片，并为我匹配一只数码宝贝
+Generate a Digimon style image for me, and match me with a Digimon partner.
 ```
 **Reference Image Required:** A single person photo.
 
@@ -1249,7 +1249,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **Prompt:**
 ```
-将图标[🎰]变成美味可口布丁造型，Q弹质感，背景粉白渐变，整体甜美、轻盈、可爱
+Transform the icon [🎰] into a delicious pudding shape with a bouncy texture. The background should be a gradient of pink and white, with an overall sweet, light, and cute aesthetic.
 ```
 
 [⬆️ Back to Directory](#example-toc)
@@ -1264,7 +1264,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **Prompt:**
 ```
-为我生成讽刺海报：GPT 4o 狂卷，都别干图像AI了 还是送外卖吧
+Generate a satirical poster: GPT-4o is taking over, everyone in AI image generation should just deliver food instead.
 ```
 
 [⬆️ Back to Directory](#example-toc)
@@ -1279,7 +1279,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **Prompt:**
 ```
-把照片中的人物变成《海贼王》（One Piece）动漫主题手办包装盒的风格，以等距视角（isometric）呈现。包装盒内展示的是基于照片人物的《海贼王》动漫画风设计的形象，旁边搭配有日常必备物品（手枪、手表、西装和皮鞋）同时，在包装盒旁边还应呈现该手办本体的实物效果，采用逼真的、具有真实感的渲染风格。
+Transform the people in the photo into the style of a "One Piece" anime-themed figure box, presented in an isometric view. Inside the box, display a "One Piece" anime-style design based on the people in the photo, accompanied by everyday essential items (a pistol, watch, suit, and leather shoes). Additionally, the actual figure itself should be shown next to the box, rendered in a realistic style.
 ```
 *Note: The list of essential items was slightly modified here. Please refer to the original source.*
 
@@ -1297,7 +1297,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **Prompt:**
 ```
-将场景中的角色转化为3D Q版风格，同时保持原本的场景布置和服装造型不变。
+Transform the characters in the scene into a 3D Q-version style, while maintaining the original scene arrangement and clothing style.
 ```
 **Reference Image Required:** A photo.
 
@@ -1313,10 +1313,12 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 **Prompt:**
 ```
-根据照片上的内容打造一款细致精美、萌趣可爱的3D渲染收藏摆件，装置在柔和粉彩色调、温馨浪漫的展示盒中。展示盒为浅奶油色搭配柔和的金色装饰，形似精致的便携珠宝盒。打开盒盖，呈现出一幕温暖浪漫的场景：两位Q版角色正甜蜜相望。盒顶雕刻着“FOREVER TOGETHER”（永远在一起）的字样，周围点缀着小巧精致的星星与爱心图案。
-盒内站着照片上的女性，手中捧着一束小巧的白色花束。她的身旁是她的伴侣，照片上的男性。两人都拥有大而闪亮、充满表现力的眼睛，以及柔和、温暖的微笑，传递出浓浓的爱意和迷人的气质。
-他们身后有一扇圆形窗户，透过窗户能看到阳光明媚的中国古典小镇天际线和轻柔飘浮的云朵。盒内以温暖的柔和光线进行照明，背景中漂浮着花瓣点缀气氛。整个展示盒和角色的色调优雅和谐，营造出一个奢华而梦幻的迷你纪念品场景。
-尺寸：9:16
+Create a detailed, exquisite, cute, and charming 3D rendered collectible figurine based on the content of the photo, placed in a soft pastel-colored, warm, and romantic display box. The display box is light cream-colored with soft gold decorations, resembling a delicate portable jewelry box. Upon opening the lid, a warm and romantic scene is revealed: two Q-version characters gazing sweetly at each other. The top of the box is engraved with the words "FOREVER TOGETHER," surrounded by small, delicate star and heart patterns.
+
+Inside the box stands the woman from the photo, holding a small bouquet of white flowers. Beside her is her partner, the man from the photo. Both have large, bright, expressive eyes and soft, warm smiles, conveying deep affection and charming charisma.
+
+Behind them is a round window, through which you can see the sunny skyline of a classical Chinese town and gently floating clouds. The interior of the box is illuminated with warm, soft light, and flower petals float in the background, adding to the atmosphere. The overall tone of the display box and characters is elegant and harmonious, creating a luxurious and dreamy miniature souvenir scene.
+Dimensions: 9:16
 ```
 **Reference Image Required:** A couple's photo.
 
@@ -1347,7 +1349,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **Prompt:**
 ```
-一幅讽刺漫画风格的插画，采用复古美式漫画风格，背景是一个多层货架，货架上都是一样的红色棒球帽，帽子正面印有大字标语“MAKE AMERICA GREAT AGAIN”，帽侧贴着白色标签写着“MADE IN CHINA”，特写视角聚焦其中一顶红色棒球帽。画面下方有价格牌，原价“$50.00”被粗黑线X划掉，改为“$77.00”，色调为怀旧的土黄与暗红色调，阴影处理带有90年代复古印刷质感。整体构图风格夸张讽刺，具讽刺政治消费主义的意味。
+A satirical cartoon-style illustration, adopting a retro American comic style. The background features a multi-tiered shelf filled with identical red baseball caps. The caps bear the large slogan "MAKE AMERICA GREAT AGAIN" on the front, and a white label on the side reads "MADE IN CHINA." A close-up view focuses on one of the red baseball caps. Below the image is a price tag with the original price "$50.00" crossed out with a thick black "X," replaced with "$77.00." The color scheme is a nostalgic yellowish-brown and dark red, with shadow processing that evokes a 90s retro printing texture. The overall composition is exaggerated and satirical, with a satirical undertone of political consumerism.
 ```
 
 [⬆️ Back to Directory](#example-toc)
@@ -1362,7 +1364,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **Prompt:**
 ```
-将图片中的人物变成玩偶形状的氦气球
+Transform the person in the image into a doll-shaped helium balloon.
 ```
 **Reference Image Required:** A half-body or full-body single person photo.
 
@@ -1378,23 +1380,23 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **Prompt:**
 ```
-根据我上传的照片，生成一张纵向比例的照片，使用以下提示词：
+Generate a portrait-oriented image based on the photo I upload, using the following prompts:
 
-经典乐高人偶风格，一个微缩场景 —— 一只动物站在我身旁。这只动物的配色与我相匹配。
+In the style of classic Lego figures, a miniature scene featuring an animal standing next to me. The animal's color scheme should match mine.
 
-请根据你对我的理解来创造这只动物（你可以选择任何你认为适合我的动物，不论是真实存在的，还是超现实的、幻想的，只要你觉得符合我的气质即可）。
+Please create this animal based on your understanding of me (you can choose any animal you think suits me, whether it exists in reality or is surreal and fantastical, as long as you think it matches my temperament).
 
-整个场景设定在一个透明玻璃立方体内，布景极简。
+The entire scene is set within a transparent glass cube, with minimalist scenery.
 
-微缩场景的底座是哑光黑色，配以银色装饰，风格简约且时尚。
+The base of the miniature scene is matte black, with silver decorations, in a simple and stylish manner.
 
-底座上有一块优雅雕刻的标签牌，字体为精致的衬线体，上面写着该动物的名称。
+There is an elegantly engraved label on the base, with delicate serif font, bearing the name of the animal.
 
-底部设计中还巧妙融入了类似自然历史博物馆展示的生物学分类信息，以精细蚀刻的方式呈现。
+The bottom design also cleverly incorporates biological classification information similar to that displayed in natural history museums, presented in a finely etched manner.
 
-整体构图像是一件高端收藏艺术品：精心打造、策展般呈现、灯光细致。
+The overall image resembles a high-end collectible artwork: meticulously crafted, curatorially presented, with detailed lighting.
 
-构图重在平衡。背景为渐变色，从深色到浅色过渡（颜色基于主色调进行选择）。
+The composition emphasizes balance. The background is a gradient, transitioning from dark to light (colors are chosen based on the main color scheme).
 ```
 **Reference Image Required:** A half-body or full-body single person photo.
 
@@ -1410,7 +1412,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **Prompt:**
 ```
-为我生成我的房间设计（床、书架、沙发、电脑桌和电脑、墙上挂着绘画、绿植，窗外是城市夜景。可爱 3d 风格，c4d 渲染，轴测图。
+Generate a design of my room for me (bed, bookshelf, sofa, computer desk and computer, paintings on the wall, green plants, city night view outside the window. Cute 3D style, c4d rendering, axonometric drawing.
 ```
 *Note: The original prompt generated the room based on ChatGPT's memory of the user. This version is slightly modified. Please refer to the original source.*
 
@@ -1426,8 +1428,8 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **Prompt:**
 ```
-照片中的角色的 3D Q 版形象穿过传送门，牵着观众的手，在将观众拉向前时动态地回头一看。传送门外的背景是观众的现实世界，一个典型的程序员的书房，有书桌，显示器和笔记本电脑，传送门内是角色所处的3D Q 版世界，细节可以参考照片，整体呈蓝色调，和现实世界形成鲜明对比。传送门散发着神秘的蓝色和紫色色调，是两个世界之间的完美椭圆形框架处在画面中间。从第三人称视角拍摄的摄像机角度，显示观看者的手被拉入角色世界。3：2 的宽高比。
-(需要上传一张半身或者全身清晰照片作为输入)
+The 3D Q-version character in the photo steps through a portal, holding the viewer's hand and dynamically looking back as they pull the viewer forward. The background outside the portal is the viewer's real world, a typical programmer's study with a desk, monitor, and laptop. Inside the portal is the 3D Q-version world where the character is, with details that can be referenced from the photo, in an overall blue tone, forming a sharp contrast with the real world. The portal emits mysterious blue and purple hues, a perfect oval frame between the two worlds, positioned in the center of the image. The camera angle is from a third-person perspective, showing the viewer's hand being pulled into the character's world. 3:2 aspect ratio.
+(Requires uploading a clear half-body or full-body photo as input)
 ```
 **Reference Image Required:** A clear half-body or full-body single person photo.
 
@@ -1435,15 +1437,15 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 
 <a id="examples-5"></a>
-## Example 5: Ghibli Style (by [AnimeAI](https://animeai.online))
+## Example 5: [Ghibli Style](https://ghibliia.com) (by [Ghibli AI](https://ghibliia.com))
 
-[Source Link](https://animeai.online/#demo-gallery)
+[Source Link](https://ghibliia.com)
 
 <img src="https://animeai.online/demo/ghibli-style-mona-lisa.png" width="300" alt="Mona Lisa redrawn in Ghibli style">
 
 **Prompt:**
 ```
-以吉卜力风格重绘这张照片
+Redraw this photo in Ghibli style
 ```
 **Reference Image Required:** A photo of a person or other subject.
 
@@ -1461,7 +1463,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **Prompt:**
 ```
-将照片里的两个人转换成Q版 3D人物，中式古装婚礼，大红颜色，背景“囍”字剪纸风格图案。 服饰要求：写实，男士身着长袍马褂，主体为红色，上面以金色绣龙纹图案，彰显尊贵大气 ，胸前系着大红花，寓意喜庆吉祥。女士所穿是秀禾服，同样以红色为基调，饰有精美的金色花纹与凤凰刺绣，展现出典雅华丽之感 ，头上搭配花朵发饰，增添柔美温婉气质。二者皆为中式婚礼中经典着装，蕴含着对新人婚姻美满的祝福。 头饰要求： 男士：中式状元帽，主体红色，饰有金色纹样，帽顶有精致金饰，尽显传统儒雅庄重。 女士：凤冠造型，以红色花朵为中心，搭配金色立体装饰与垂坠流苏，华丽富贵，古典韵味十足。
+Transform the two people in the photo into Q-version 3D characters in a traditional Chinese wedding with a predominantly red color scheme and a "囍" (double happiness) paper-cut style pattern as the backdrop. Clothing requirements: Realistic depiction. The groom wears a red robe and mandarin jacket, mainly red, with gold embroidered dragon patterns to highlight nobility and grandeur, and a big red flower on his chest, symbolizing joy and auspiciousness. The bride wears a Xiuhe dress, also mainly red, adorned with exquisite gold patterns and phoenix embroidery, showcasing elegance and luxury, with flower hair accessories to add a gentle and refined touch. Both are dressed in classic Chinese wedding attire, symbolizing blessings for a happy marriage. Headwear requirements: Groom: A traditional Chinese狀元 (Number One Scholar) hat, mainly red, decorated with gold patterns, and delicate gold ornaments on the top, showcasing traditional Confucian elegance and solemnity. Bride: A phoenix coronet, centered with red flowers, complemented by gold three-dimensional decorations and dangling tassels, luxurious and rich, full of classical charm.
 ```
 **Reference Image Required:** A couple's photo.
 
@@ -1477,7 +1479,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **Prompt:**
 ```
-复古宣传海报风格，突出中文文字，背景为红黄放射状图案。画面中心位置有一位美丽的年轻女性，以精致复古风格绘制，面带微笑，气质优雅，具有亲和力。主题是GPT最新AI绘画服务的广告促销，强调‘惊爆价9.9/张’、‘适用各种场景、图像融合、局部重绘’、‘每张提交3次修改’、‘AI直出效果，无需修改’，底部醒目标注‘有意向点右下“我想要”’，右下角绘制一个手指点击按钮动作，左下角展示OpenAI标志。
+Vintage promotional poster style, highlighting Chinese text, with a red and yellow radial pattern background. In the center of the image is a beautiful young woman, drawn in a refined retro style, with a smile, elegant temperament, and approachable demeanor. The theme is an advertising promotion for GPT's latest AI painting service, emphasizing 'Bargain price 9.9/image', 'Applicable to various scenes, image fusion, local re-drawing', '3 revisions per submission', 'AI direct output effect, no modification required'. The bottom prominently states 'Click "I want it" on the lower right if interested', the lower right corner depicts a finger clicking a button, and the lower left corner displays the OpenAI logo.
 ```
 
 [⬆️ Back to Directory](#example-toc)
@@ -1508,7 +1510,7 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 
 **Prompt:**
 ```
-将照片里的两个人转换成Q版 3D人物，场景换成求婚，背景换成淡雅五彩花瓣做的拱门，背景换成浪漫颜色，地上散落着玫瑰花瓣。除了人物采用Q版 3D人物风格，其他环境采用真实写实风格。
+Transform the two people in the photo into Q-version 3D characters, change the scene to a marriage proposal, change the background to an arch made of elegant colorful petals, change the background to romantic colors, and scatter rose petals on the ground. Except for the characters adopting a Q-version 3D character style, the rest of the environment adopts a realistic style.
 ```
 **Reference Image Required:** A couple's photo.
 
